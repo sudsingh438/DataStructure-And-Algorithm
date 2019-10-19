@@ -1,13 +1,5 @@
 import javafx.util.Pair;
 
-/**
- * Node Class
- */
-class ListNode {
-      int val;
-      ListNode next;
-      ListNode(int x) { val = x; }
-}
 
 /**
  * Main Class for test cases
